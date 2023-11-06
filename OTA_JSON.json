@@ -1,6 +1,6 @@
 {  
-  "boot_hesh": "e7d90053661abb6186d28b7ee08283e3f91c94b3da8e96b45eabb3f6e6740d35",
-  "firmware_hesh": "de85940827b8fee0dadd17975c2cfbac7d0e2b66cf0186be8e2efeb2874b87f9",
+  "boot_hash": "e7d90053661abb6186d28b7ee08283e3f91c94b3da8e96b45eabb3f6e6740d35",
+  "firmware_hash": "de85940827b8fee0dadd17975c2cfbac7d0e2b66cf0186be8e2efeb2874b87f9",
   "file":"https://github.com/DawidGurdzinski2/ESP32_OTA_BIN/raw/main/firmware.bin"
 
 }
